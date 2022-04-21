@@ -18,3 +18,8 @@ Korelacje
 Podsumowanie (Paweł - 15-16.03.)
 - wnioski o danych
 (+ sprawdzenie czy czegos brakuje itp)
+
+
+Resources:
+- https://realpython.com/build-recommendation-engine-collaborative-filtering/
+- https://surprise.readthedocs.io/en/stable/index.html
